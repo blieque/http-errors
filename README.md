@@ -2,7 +2,7 @@
 
 In an effort to make web error pages look a little prettier without going overboard, I made this. It's essentially a PHP script that checks the status code and shows a simple page based on it.
 
-![Screenshot](https://raw.githubusercontent.com/blieque/http-error-pages/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/blieque/http-errors/master/screenshot.png)
 
 Feel free to modify and use it yourself, as per the license.
 
